@@ -1,0 +1,6 @@
+name: ParallelRunnable
+version: '${project.version}'
+main: dev.shiro8613.lib.parallelrunnable.ParallelRunnable
+api-version: 1.19
+authors: [ shiro8613 ]
+website: lib.shiro8613.dev
